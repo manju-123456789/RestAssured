@@ -1,7 +1,7 @@
 package Practice;
 
 public class Data {
-	
+	//commented
 	private int  id;
 	private String email;
 	private String first_name;
