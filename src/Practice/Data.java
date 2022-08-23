@@ -1,6 +1,7 @@
 package Practice;
 
 public class Data {
+	
 	private int  id;
 	private String email;
 	private String first_name;
